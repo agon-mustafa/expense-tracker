@@ -33,3 +33,5 @@ export const GlobalProvider = ({ children }) => {
       </GlobalContext.Provider>
     );
   }
+
+  console.log('this is just a change to learn github')
