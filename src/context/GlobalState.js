@@ -34,4 +34,4 @@ export const GlobalProvider = ({ children }) => {
     );
   }
 
-  console.log('this is just a change to learn github')
+  console.log('test')
